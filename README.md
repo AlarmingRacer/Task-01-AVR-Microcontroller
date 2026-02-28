@@ -1,31 +1,22 @@
 # AVR Microcontroller Design | IPD Task 01
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the full design for **Task 01** of **IPD** . The project focuses on the hardware implementation of an 8-bit AVR-based microcontroller system.
 
-This submission fulfills the requirements for hosting all logic schematics, physical PCB layouts, and technical datasheets in a centralized version-controlled environment.
+This submission fulfills the requirements for hosting all logic schematics, physical PCB layouts.
 
 ---
 
 ## 🖼 Design Gallery
 
-### 1. Schematic View
+### 1. 3D Visualization
+![3d view](img/3dview.png)
+
+### 2. Schematic View
 ![Schematic](img/Schematic.png)
 
-### 2. PCB Layout
-![Schematic](img/schmatic.png)
-
-### 3. 3D Visualization
-![Schematic](img/schmatic.png)
-
----
-
-
-## 📝 Commit History Note
-This repository was updated on **February 28, 2026**, to include the final verified versions of:
-* `Schematic_v1.0.pdf`
-* `PCB_Layout_Final.gbr`
-* `Component_Datasheets.zip`
+### 3. PCB Layout
+![PCB Layout](img/2dview.png)
 
 ---
 
