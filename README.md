@@ -10,7 +10,7 @@ This submission fulfills the requirements for hosting all logic schematics, phys
 ## 🖼 Design Gallery
 
 ### 1. Schematic View
-![Schematic](img/Schmatic.png)
+![Schematic](img/Schematic.png)
 
 ### 2. PCB Layout
 ![Schematic](img/schmatic.png)
